@@ -1,1 +1,1 @@
-test
+<?php echo $_POST['test'];?>
